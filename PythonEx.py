@@ -24,7 +24,7 @@ class Vacancy:
         self.area_name = area_name
         self.published_at = published_at
         self.salaryRUR = None
-        self.year = None
+        self.year = 99999999
 
 
 class DataSet:
